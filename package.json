@@ -5,7 +5,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "build": "cd frontend && npm install && npm run build",
+=======
+    "buildClient": "cd frontend && npm install && npm run build",
+>>>>>>> heroku
     "startDev": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
