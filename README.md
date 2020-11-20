@@ -6,4 +6,4 @@ You can create/edit/buy products. You can also register as a user and buy produc
 
 ### If you want to test the app as admin, signinwith:
 
-*email:* admin@admin.com *password:* 1234
+**email:** admin@admin.com **password:** 1234
