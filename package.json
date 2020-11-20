@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "buid": "cd frontend && npm install && npm run build",
+    "build": "cd frontend && npm install && npm run build",
     "startDev": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
