@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/rentorious/full_ecommerce_tutorial/issues"
   },
-  "homepage": "https://github.com/rentorious/full_ecommerce_tutorial#readme",
+  "homepage": "/frontend/public",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
