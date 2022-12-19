@@ -4,10 +4,7 @@
 node_modules
 /.pnp
 .pnp.js
-<<<<<<< HEAD
 /fontend/node_modules
-=======
->>>>>>> heroku
 
 # testing
 /coverage
@@ -25,10 +22,6 @@ build
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
-=======
-package-json.lock
->>>>>>> heroku
 
 .env
 /uploads/*.jpg
